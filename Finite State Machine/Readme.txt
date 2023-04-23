@@ -1,0 +1,1 @@
+This verilog code simulate a behavioral model of a finites state machine for a traffic light controller
