@@ -1,0 +1,1 @@
+This verilog code simulate a accumulator that add the value of a k-bit input X over a successive clock cycle and the sume are stored in a k-bit register
